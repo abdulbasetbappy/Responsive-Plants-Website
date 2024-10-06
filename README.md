@@ -1,5 +1,6 @@
-# Plantex
-![Plantex Logo](assets/img/favicon.png)
+# Plantex ![Plantex Logo](assets/img/favicon.png)
+
+![Plantex Cover](assets/img/PlanteX.png)
 
 ## Responsive Plants Website
 
@@ -27,3 +28,7 @@ Experience the website live on [Vercel](https://responsive-plants-website-pi.ver
 - **Remix Icon** - Icon library for UI elements.
 - **ScrollReveal** - JavaScript library for scroll animations.
 - **Vercel** - Deployment platform.
+
+# Next Version Coming Soon!
+
+
