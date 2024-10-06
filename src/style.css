@@ -810,6 +810,10 @@ the website, in dark theme
   color: var(--text-color-light);
   margin: 5rem 0 1rem;
 }
+.Credit__URL{
+  text-decoration: none;
+  color: var(--text-color);
+}
 
 
 /*=============== SCROLL UP ===============*/
